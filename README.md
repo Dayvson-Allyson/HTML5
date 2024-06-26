@@ -14,6 +14,17 @@ Aŕea de Desenvolvimento: A tag é o BODY, que é a área onde irá se desenvolv
 
 Meta: Conjunto de metadados que não aparecem, mas que ditam a semântica do código.
 
+Charset UTF8: Configuração Latino amerericano, padronizando as acentuações nas palavras e a semântca das pontuações.
+
+Title: O título do docuento na abertura do site, presente na aba da página web.
+
+H1: Título principal
+
+H2: Subtítulo do H1, assim como o H3 será o do H2 e assim sucessivamente.
+
+
+
+
 "<! DOCTYPE html >
 
 < HTML lang = "Pt-br" > 
